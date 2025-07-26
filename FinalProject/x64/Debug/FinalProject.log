@@ -1,0 +1,8 @@
+﻿  GameObject.cpp
+  SceneManager.cpp
+  main.cpp
+D:\STUDY\Visual Studio Project\FinalProject\FinalProject\main.cpp(118,32): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\STUDY\Visual Studio Project\FinalProject\FinalProject\main.cpp(118,27): warning C4305: “参数”: 从“double”到“GLclampf”截断
+D:\STUDY\Visual Studio Project\FinalProject\FinalProject\main.cpp(118,22): warning C4305: “参数”: 从“double”到“GLclampf”截断
+  正在生成代码...
+  FinalProject.vcxproj -> D:\STUDY\Visual Studio Project\FinalProject\x64\Debug\FinalProject.exe
