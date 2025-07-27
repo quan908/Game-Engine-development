@@ -1,0 +1,14 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+D:\GameEngineProject\quan\quan\main.cpp(318,16): warning C4551: function call missing argument list
+  SoundManager.cpp
+  Generating Code...
+  miniaudio.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  quan.vcxproj -> D:\GameEngineProject\quan\x64\Debug\quan.exe
